@@ -9,8 +9,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "@ai-sdk/anthropic": "^4.0.79",
     "@fal-ai/serverless-client": "0.15.0",
     "@hookform/resolvers": "^3.10.0",
+    "@neondatabase/serverless": "^0.10.4",
     "@radix-ui/react-accordion": "1.2.2",
     "@radix-ui/react-alert-dialog": "1.1.4",
     "@radix-ui/react-aspect-ratio": "1.1.1",
